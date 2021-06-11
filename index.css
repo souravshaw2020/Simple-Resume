@@ -1,0 +1,36 @@
+body {
+  font-family: "Noto Serif", serif;
+}
+div {
+  border-radius: 5px;
+}
+.header {
+  position: fixed;
+  z-index: 1;
+  padding: 5px;
+  height: 60px;
+  width: 98%;
+  background-color: #03175a;
+  margin-bottom: 10px;
+}
+.name {
+  float: left;
+  margin-left: 15px;
+  padding-bottom: 10px;
+  font-size: 28px;
+  color: #ffffff;
+}
+.title {
+  float: left;
+  margin-top: 80px;
+  padding-left: 5px;
+  height: auto;
+  width: 99%;
+  background-color: #c6ccf1;
+}
+h3 {
+  text-decoration: underline;
+}
+li {
+  padding: 5px;
+}
